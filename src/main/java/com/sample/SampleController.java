@@ -33,7 +33,7 @@ public class SampleController {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello World! I am Ankit";
+        return "Hello World! I am Ankit Chaudhary";
     }
     
     @RequestMapping("/welcome")
